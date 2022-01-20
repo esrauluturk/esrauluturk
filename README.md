@@ -19,7 +19,7 @@
 ---
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esrauluturk&theme=gruvbox&row=1&column=6" alt="esrauluturk" /></a></p>
 
-![Esra's Github Stats](https://github-readme-stats.vercel.app/api?username=esrauluturk&show_icons=true&theme=gruvbox)
+
 
 <!--
 **esrauluturk/esrauluturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
